@@ -2,7 +2,6 @@
 
 📍 Indore, Madhya Pradesh, India  
 ✉️ [245anshtamrakar@gmail.com](mailto:245anshtamrakar@gmail.com)  
-📞 +91 9425436312  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ansh-tamrakar-977408244)
 
 ---
