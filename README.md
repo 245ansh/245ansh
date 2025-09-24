@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Ansh Tamrakar
 
-![Profile Views](https://komarev.com/ghpvc/?username=245ansh&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/245ansh?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/245ansh?style=flat-square)
-
 ## 🚀 About Me
 
 I'm a passionate **Full Stack Developer** currently pursuing my Bachelor's degree in Computer Science and Engineering. I love building innovative web applications and exploring new technologies. My journey in programming started with C/C++ and has evolved into a comprehensive skill set spanning both frontend and backend development.
@@ -11,8 +7,7 @@ I'm a passionate **Full Stack Developer** currently pursuing my Bachelor's degre
 - 🔭 I'm currently working as a **Full Stack Java Intern** at Adyanta Semiconductors
 - 🌱 I'm constantly learning and expanding my knowledge in **DevOps** and **Cloud Technologies**
 - 💬 Ask me about **Java, React, Spring Boot, or Web Development**
-- 📫 How to reach me: **anshtamrakar245@gmail.com**
-- ⚡ Fun fact: I'm a huge movie enthusiast and love reviewing films! 🎬
+- 📫 How to reach me: **245anshtamrakar@gmail.com**
 
 ## 🛠️ Technical Skills
 
@@ -28,7 +23,7 @@ I'm a passionate **Full Stack Developer** currently pursuing my Bachelor's degre
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -129,12 +124,6 @@ I'm a passionate **Full Stack Developer** currently pursuing my Bachelor's degre
 - **Relevant Courses:** Physics, Chemistry, Mathematics, Computer Science, English, Physical Education
 - **Achievements:** Strong performance in Science and Mathematics, active participation in school activities
 
-## 📊 GitHub Stats
-
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=245ansh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=245ansh&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=245ansh&theme=radical)
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 **Cisco Networking Virtual Intern** - Completed advanced networking program
@@ -159,12 +148,12 @@ C/C++ → Java → HTML/CSS/JS → ReactJS → SQL/MySQL → Spring Boot → Dev
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/245ansh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-tamrakar)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-00D84A?style=for-the-badge&logo=letterboxd&logoColor=white)](https://boxd.it/adck5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshtamrakar245@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:245anshtamrakar@gmail.com)
 
 ## 📱 Portfolio
 
 Check out my portfolio website for more details about my work and projects:
-**[anshtamrakar.dev](https://your-portfolio-url.com)**
+**[anshing.me](https://anshing.me)**
 
 ---
 
@@ -174,6 +163,3 @@ Check out my portfolio website for more details about my work and projects:
   <i>"Looking forward for more..."</i>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p4d2JqZ2N1dGp2c3Y3dGQ3dGp2c3Y3dGQ3dGp2c3Y3dGQ3dGp2c3Y3dGQ/giphy.gif" width="100">
-</div>
